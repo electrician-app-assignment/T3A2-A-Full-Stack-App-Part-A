@@ -12,4 +12,5 @@
 ##  Wireframes for multiple standard screen sizes
 ##  Screenshots of our Trello board 
 
+First Trello Screenshot
 ![Trello Screenshot](/T3A2-A-Full-Stack-App-Part-A/docs/Trello-SS-2020-07-04.png)
