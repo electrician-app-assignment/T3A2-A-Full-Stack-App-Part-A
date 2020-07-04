@@ -7,10 +7,20 @@
 - Tech stack  GENERAL
 
 ##  Dataflow Diagram  
-##  Application Architecture Diagram  
-##  User Stories  
-##  Wireframes for multiple standard screen sizes
-##  Screenshots of our Trello board 
+-
 
-First Trello Screenshot
-![Trello Screenshot](/T3A2-A-Full-Stack-App-Part-A/docs/Trello-SS-2020-07-04.png)
+##  Application Architecture Diagram  
+-
+
+##  User Stories  
+-
+
+##  Wireframes for multiple standard screen sizes
+-
+
+##  Screenshots of our Trello board 
+-
+
+
+First Trello board Screenshot
+![Trello Screenshot](/docs/Trello-SS-2020-07-04.png)
