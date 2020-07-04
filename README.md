@@ -6,19 +6,19 @@
 - Target audience
 - Tech stack  GENERAL
 
-##  Dataflow Diagram  
+## Dataflow Diagram  
 -
 
-##  Application Architecture Diagram  
+## Application Architecture Diagram  
 -
 
-##  User Stories  
+## User Stories  
 -
 
-##  Wireframes for multiple standard screen sizes
+## Wireframes for multiple standard screen sizes
 -
 
-##  Screenshots of our Trello board 
+## Screenshots of our Trello board 
 -
 
 
