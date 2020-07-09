@@ -58,7 +58,7 @@ Domestic, rural and industrial customers requiring electrical services and are l
 -
 
 ## User Stories  
-- Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation.
+![User-Stories](docs/Electrical-Services-User-Stories.png)
 
 ## Wireframes for multiple standard screen sizes
 ![Wireframe-Homepage-Browser](/assets/Wireframe-Homepage-Browser.png)
