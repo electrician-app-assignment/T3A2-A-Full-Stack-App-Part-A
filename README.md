@@ -87,3 +87,4 @@ Progress 09.07.20
 ![Trello Screenshot](/docs/Trello-SS-2020-07-09.png)
 
 Progress 10.07.20
+![Trello Screenshot](/docs/Trello-SS-2020-07-10.png)
