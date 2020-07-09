@@ -38,8 +38,9 @@ Domestic, rural and industrial customers requiring electrical services and are l
 - Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation.
 
 ## Wireframes for multiple standard screen sizes
-- Utilise an industry standard program for creation of wireframes 
-- Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.
+![Wireframe-Homepage-Browser](/assets/Wireframe-Homepage-Browser.png)
+![Wireframe-Homepage-Ipad](/assets/Wireframe-Homepage-Ipad.png)
+![Wireframe-Homepage-IphoneX](/assets/Wireframe-Homepage-IphoneX_grz37xtwh.png)![Wireframe-Dashboard-Browser](/assets/Wireframe-Dashboard-Browser.png)![Wireframe-Dashboard-Ipad](/assets/Wireframe-Dashboard-Ipad.png)![Wireframe-Dashboard-IphoneX](/assets/Wireframe-Dashboard-IphoneX.png)
 
 ## Screenshots of our Trello board 
 
