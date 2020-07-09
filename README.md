@@ -55,7 +55,7 @@ Domestic, rural and industrial customers requiring electrical services and are l
 
 
 ## Application Architecture Diagram  
--
+![Architecture-Diagram](docs/Architecture-Diagram.jpg)
 
 ## User Stories  
 ![User-Stories](docs/Electrical-Services-User-Stories.png)
