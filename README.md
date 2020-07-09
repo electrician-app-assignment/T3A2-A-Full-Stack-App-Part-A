@@ -29,7 +29,30 @@ Domestic, rural and industrial customers requiring electrical services and are l
 * Cypress - React testing framework for end to end testing
 
 ## Dataflow Diagram  
--
+![Data Flow Diagram](/docs/Data-flow-diagram.png)
+
+#### External Entities:
+- Customer 
+- Admin 
+
+#### Data storage:
+- Current Enquiries 
+- Archived Enquiries 
+- Reviews 
+
+#### Processes:
+1.0 Create enquiry for admin 
+
+2.0 Notify admin of enquiry 
+
+3.0 Response to customer enquiry or review 
+
+4.0 Move responded enquiry to archive
+
+5.0 Create a review 
+
+6.0 Notify admin of review
+
 
 ## Application Architecture Diagram  
 -
@@ -43,6 +66,16 @@ Domestic, rural and industrial customers requiring electrical services and are l
 
 ## Screenshots of our Trello board 
 
+Link to Trello Board: 
+
+https://trello.com/b/9SMftIeC/agile-sprint-board
+
 First Trello board Screenshot 04.07.20
 
 ![Trello Screenshot](/docs/Trello-SS-2020-07-04.png)
+
+Progress 09.07.20
+
+![Trello Screenshot](/docs/Trello-SS-2020-07-09.png)
+
+Progress 10.07.20
