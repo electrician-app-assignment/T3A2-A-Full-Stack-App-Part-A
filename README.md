@@ -29,7 +29,7 @@ Domestic, rural and industrial customers requiring electrical services and are l
 * Cypress - React testing framework for end to end testing
 
 ## Dataflow Diagram  
-![Data Flow Diagram](/docs/Data-flow-diagram.png)
+![Data Flow Diagram](docs/Data-flow-diagram.png)
 
 #### External Entities:
 - Customer 
@@ -61,13 +61,21 @@ Domestic, rural and industrial customers requiring electrical services and are l
 ![User-Stories](docs/Electrical-Services-User-Stories.png)
 
 ## Wireframes for multiple standard screen sizes
-![Wireframe-Homepage-Browser](/assets/Wireframe-Homepage-Browser.png)
-![Wireframe-Homepage-Ipad](/assets/Wireframe-Homepage-Ipad.png)
-![Wireframe-Homepage-IphoneX](/assets/Wireframe-Homepage-IphoneX_grz37xtwh.png)
-![Wireframe-Dashboard-Browser](/assets/Wireframe-Dashboard-Browser.png)
-![Wireframe-Dashboard-Ipad](/assets/Wireframe-Dashboard-Ipad.png)
-![Wireframe-Services-Browser](/assets/Wireframe-Services-Browser.png)
-![Wireframe-Services-Ipad](/assets/Wireframe-Services-Ipad.png)![Wireframe-Services-IphoneX](/assets/Wireframe-Services-IphoneX.png)
+![Wireframe-Homepage-Browser](docs/Wireframe-Homepage-Browser.png)
+
+![Wireframe-Homepage-Ipad](docs/Wireframe-Homepage-Ipad.png)
+
+![Wireframe-Homepage-IphoneX](docs/Wireframe-Homepage-IphoneX_grz37xtwh.png)
+
+![Wireframe-Dashboard-Browser](docs/Wireframe-Dashboard-Browser.png)
+
+![Wireframe-Dashboard-Ipad](docs/Wireframe-Dashboard-Ipad.png)
+
+![Wireframe-Services-Browser](docs/Wireframe-Services-Browser.png)
+
+![Wireframe-Services-Ipad](docs/Wireframe-Services-Ipad.png)
+
+![Wireframe-Services-IphoneX](docs/Wireframe-Services-IphoneX.png)
 
 
 * Wireframes created using: https://ninjamock.com/
@@ -80,11 +88,11 @@ https://trello.com/b/9SMftIeC/agile-sprint-board
 
 First Trello board Screenshot 04.07.20
 
-![Trello Screenshot](/docs/Trello-SS-2020-07-04.png)
+![Trello Screenshot](docs/Trello-SS-2020-07-04.png)
 
 Progress 09.07.20
 
-![Trello Screenshot](/docs/Trello-SS-2020-07-09.png)
+![Trello Screenshot](docs/Trello-SS-2020-07-09.png)
 
 Progress 10.07.20
-![Trello Screenshot](/docs/Trello-SS-2020-07-10.png)
+![Trello Screenshot](docs/Trello-SS-2020-07-10.png)
